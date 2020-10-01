@@ -5,4 +5,8 @@ this is yet another line
 Changes #2
 Changes #3
 Changes #3
+<<<<<<< HEAD
 I hope this is not much of a problem
+=======
+This is bound to cause trouble!
+>>>>>>> very-bad
