@@ -4,9 +4,8 @@ This is a simple readme file.
 this is yet another line
 Changes #2
 Changes #3
-Changes #3
 <<<<<<< HEAD
-I hope this is not much of a problem
+I hope this is not a problem.
 =======
-This is bound to cause trouble!
->>>>>>> very-bad
+This is bound to cause trouble.
+>>>>>>> terrible-branch
